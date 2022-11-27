@@ -1,7 +1,7 @@
 # ko
 Ko is a context sensable execution launcher, and cross-platform.
 
-# How to use ko.
+# How to use ko
 > The name of "KO" is come from a conlang called *Lojban* which means "You do".
 
 You can run it in any context you being.
